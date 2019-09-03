@@ -6,6 +6,18 @@ body{
  	background-color: #eee;
 }
 
+.zoom{
+    font-size: 4em;
+}
+
+.background-blue{
+    background-color: lightblue;
+}
+
+.red{
+    color: red;
+}
+
 h1{
 	font-size: 3em;
 	text-align: center;
@@ -57,7 +69,7 @@ div{
 	box-sizing:border-box;
 	margin-right:auto;
 	margin-left:auto;
-	max-width:1050px;	
+	max-width:1050px;
 }
 #logo{
 	width: 800px;
@@ -109,7 +121,7 @@ ul{
 	align-items:baseline;
 	border-radius: 10px;
 	list-style-type: none; /*Remove Bullets*/
-	padding: 0;	
+	padding: 0;
 }
 li{
 	flex:1;
